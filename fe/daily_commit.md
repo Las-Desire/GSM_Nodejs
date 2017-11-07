@@ -56,3 +56,4 @@
 2017/11/4 : Daily commit sucsessfuly  
 2017/11/5 : Daily commit sucsessfuly  
 2017/11/6 : Daily commit sucsessfuly  
+2017/11/7 : Daily commit sucsessfuly  
